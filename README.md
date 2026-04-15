@@ -1,4 +1,4 @@
-## 🌧️ Rainfall Prediction Web Application
+## Rainfall Prediction Web Application
 
 This project presents a complete end-to-end Machine Learning solution that predicts rainfall using meteorological features such as humidity, dew point, cloud cover, wind speed, temperature, and atmospheric conditions. It demonstrates not only model building but also how to transform a data science solution into a real-world deployed web application.
 
@@ -46,7 +46,7 @@ The project is deployed on Render, showcasing the ability to move from a noteboo
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * End-to-end ML pipeline (EDA → preprocessing → training → evaluation → deployment)
 * Handles missing values and class imbalance effectively
@@ -57,7 +57,7 @@ The project is deployed on Render, showcasing the ability to move from a noteboo
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Programming Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Joblib
@@ -67,7 +67,7 @@ The project is deployed on Render, showcasing the ability to move from a noteboo
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 * Integration with real-time weather APIs
 * Deployment using Docker for scalability
